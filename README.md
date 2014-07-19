@@ -15,5 +15,15 @@ kickstart
 
 ### How to create new file into an existing repo
 
+1. Create new file
+  * Touch [filename.extension]
+2. Add new file to repo
+  * git add [filename.extension]
+3. Commit changes
+  * git commit -m "add short description here"
+4. Remotely add the file from local directory to the Github online
+  *git remote add origin
+5. Push local directory to the Github online
+  * git push origin master
 
   
