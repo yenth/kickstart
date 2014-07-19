@@ -10,7 +10,8 @@ kickstart
 4. Push local directory to the Github online
   * git push origin master
   
-* It is good to constantly check 'git status' to see the level of changes
+* 'git status' to see the level of changes
+
 
 ### How to create new file into an existing repo
 
